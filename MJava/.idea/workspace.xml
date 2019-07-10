@@ -88,11 +88,6 @@
             <path>
               <item name="MJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="MJava" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -112,8 +107,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562743084256" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../A/MJava" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562743107939" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mainGit/MJava" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -163,16 +158,15 @@
       <updated>1562561698165</updated>
       <workItem from="1562561716303" duration="5343000" />
       <workItem from="1562570204286" duration="3279000" />
-      <workItem from="1562742296901" duration="759000" />
+      <workItem from="1562742296901" duration="1390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9381000" />
+    <option name="totallyTimeSpent" value="10012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="11" width="1346" height="728" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16562986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
