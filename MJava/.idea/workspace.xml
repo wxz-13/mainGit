@@ -25,6 +25,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/com/ztc/main/A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
@@ -32,6 +33,15 @@
               <folding>
                 <element signature="e#82#83#0" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/com/ztc/main/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+>>>>>>> B_dev
               </folding>
             </state>
           </provider>
@@ -40,7 +50,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="319">
+=======
+            <state relative-caret-position="255">
+>>>>>>> B_dev
               <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
@@ -62,13 +76,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/ztc/main/main.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/ztc/main/A.java" />
+=======
+        <option value="$PROJECT_DIR$/src/com/ztc/main/B.java" />
+>>>>>>> B_dev
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="1" />
     <option name="y" value="13" />
+=======
+    <option name="x" value="6" />
+    <option name="y" value="11" />
+>>>>>>> B_dev
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
@@ -88,6 +111,14 @@
             <path>
               <item name="MJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="MJava" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MJava" type="462c0819:PsiDirectoryNode" />
+>>>>>>> B_dev
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -107,8 +138,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562742110272" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562743084256" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../A/MJava" />
+>>>>>>> B_dev
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -158,18 +194,32 @@
       <updated>1562561698165</updated>
       <workItem from="1562561716303" duration="5343000" />
       <workItem from="1562570204286" duration="3279000" />
+<<<<<<< HEAD
       <workItem from="1562741553231" duration="555000" />
       <workItem from="1562743028802" duration="652000" />
+=======
+      <workItem from="1562742296901" duration="759000" />
+>>>>>>> B_dev
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="9829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="13" width="1346" height="728" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16796267" />
+=======
+    <option name="totallyTimeSpent" value="9381000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="6" y="11" width="1346" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16562986" />
+>>>>>>> B_dev
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -225,6 +275,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/ztc/main/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -232,13 +283,26 @@
           <folding>
             <element signature="e#82#83#0" expanded="true" />
             <element signature="e#125#126#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/ztc/main/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+>>>>>>> B_dev
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="319">
+=======
+        <state relative-caret-position="255">
+>>>>>>> B_dev
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
