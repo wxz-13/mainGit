@@ -24,8 +24,13 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ztc/main/B.java">
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ztc/main/A.java">
+>>>>>>> A_dev
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
@@ -37,6 +42,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,6 +52,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> A_dev
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -62,13 +70,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/ztc/main/main.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/ztc/main/B.java" />
+=======
+        <option value="$PROJECT_DIR$/src/com/ztc/main/A.java" />
+>>>>>>> A_dev
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="6" />
     <option name="y" value="11" />
+=======
+    <option name="x" value="1" />
+    <option name="y" value="13" />
+>>>>>>> A_dev
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
@@ -101,14 +118,44 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> A_dev
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562743107939" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mainGit/MJava" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562742110272" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> A_dev
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -158,12 +205,20 @@
       <updated>1562561698165</updated>
       <workItem from="1562561716303" duration="5343000" />
       <workItem from="1562570204286" duration="3279000" />
+<<<<<<< HEAD
       <workItem from="1562742296901" duration="1390000" />
+=======
+      <workItem from="1562741553231" duration="555000" />
+>>>>>>> A_dev
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="10012000" />
+=======
+    <option name="totallyTimeSpent" value="9177000" />
+>>>>>>> A_dev
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="11" width="1346" height="728" extended-state="0" />
@@ -224,7 +279,11 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/ztc/main/B.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/ztc/main/A.java">
+>>>>>>> A_dev
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
@@ -235,6 +294,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -242,6 +302,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> A_dev
   </component>
   <component name="masterDetails">
     <states>
